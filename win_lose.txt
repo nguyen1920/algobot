@@ -1,0 +1,26 @@
+2022-09-20 00:04:38.490834, Long win, Short Lose
+2022-09-20 00:04:51.640507, Long win, Short Lose
+2022-09-20 00:05:05.265259, Long win, Short Lose
+2022-09-20 00:05:18.677798, Long win, Short Lose
+2022-09-20 00:05:31.941575, Long win, Short Lose
+2022-09-20 00:05:45.404904, Long win, Short Lose
+2022-09-20 00:05:58.612999, Long win, Short Lose
+2022-09-20 00:06:11.993837, Long win, Short Lose
+2022-09-20 00:06:24.175154, Long win, Short Lose
+2022-09-20 00:07:14.538805, Long win, Short Lose
+2022-09-20 00:07:28.038230, Long win, Short Lose
+2022-09-20 00:07:41.413098, Long win, Short Lose
+2022-09-20 00:07:55.237183, Long win, Short Lose
+2022-09-20 00:08:08.338370, Long win, Short Lose
+2022-09-20 00:08:21.905232, Long win, Short Lose
+2022-09-20 00:08:35.128527, Long win, Short Lose
+2022-09-20 00:08:48.397083, Long win, Short Lose
+2022-09-20 00:09:01.783621, Long win, Short Lose
+2022-09-20 00:09:14.809841, Long win, Short Lose
+2022-09-20 00:09:28.297430, Long win, Short Lose
+2022-09-20 00:09:41.398825, Long win, Short Lose
+2022-09-20 00:09:54.920686, Long win, Short Lose
+2022-09-20 00:10:08.189445, Long win, Short Lose
+2022-09-20 00:10:21.659917, Long win, Short Lose
+2022-09-20 00:10:34.862136, Long win, Short Lose
+
