@@ -50,6 +50,7 @@ from tradingview_ta import TA_Handler, Interval, Exchange
 import tradingview_ta
 import time
 from datetime import datetime
+import config
 
 stock_ETHUSD = TA_Handler(
     symbol="ETHUSD", #TSLA
@@ -241,4 +242,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

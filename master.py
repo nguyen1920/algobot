@@ -17,6 +17,7 @@ import time
 from datetime import datetime
 from pycoingecko import CoinGeckoAPI
 import json
+import config
 
 
 
@@ -168,13 +169,13 @@ def macd(stock):
         return None
 
 def connect_account():
-    #ndax     = ccxt.ndax({
-    #    'apiKey': '68f94f30b27a1f121146c9b99871dc59',
-    #    'secret': 'a5b4a4e8c922ee237090cb529f83e42c',
-    #    'uid': '181668',
-    #    'login': 'nguy1920',
-    #    'password': 'Bdhsu8q72g,geusy',
-    #})
+    ndax = ccxt.ndax({
+        'apiKey': config.apiKey,
+        'secret': config.secret,
+        'uid': config.uid,
+        'login': config.login,
+        'password': config.password,
+    })
     return
 
 def remove_trade(timestamp):
