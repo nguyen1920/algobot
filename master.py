@@ -241,7 +241,7 @@ def go_long():
             logs.write('Long,{},{},{},{},{},{},{}\n'.format(str(now),timestamp,sec,base,price,w_price,l_price))
         with open('trades.txt','a') as logs:
             logs.write('Long,{},{},{},{},{},{},{}\n'.format(str(now),timestamp,sec,base,price,w_price,l_price))
-        #connect_account()
+        connect_account()
         #with open('logs.txt','a') as logs: #works
         #    buy = ndax.create_order('BTC/CAD',"limit","buy",0.0001,10,)
         #    logs.write(str(buy)+"\n") #works
@@ -284,7 +284,7 @@ def go_short():
             logs.write('Short,{},{},{},{},{},{},{}\n'.format(str(now),timestamp,sec,base,price,w_price,l_price))
         with open('trades.txt','a') as logs:
             logs.write('Short,{},{},{},{},{},{},{}\n'.format(str(now),timestamp,sec,base,price,w_price,l_price))
-        #connect_account()
+        connect_account()
         short_trade = True
     return w_price,l_price
 
